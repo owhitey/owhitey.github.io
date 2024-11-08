@@ -1,8 +1,8 @@
-# The 2nd ChatGPT4PCG Competition: Character-like Level Generation for Science Birds
+# The LLM4PCG Competition: Character-like Level Generation for Science Birds
 
 ![image](https://github.com/chatgpt4pcg/chatgpt4pcg.github.io/blob/main/public/images/logo.jpg?raw=true)
 
-The 2nd ChatGPT4PCG Competition continues the challenging and exciting spirit of the first competition. In this edition, we not only challenge participants to come up with a prompt to construct stable Science Birds levels resembling uppercase English characters, but we also open up the possibility of incorporating more complex prompt engineering techniques. This time, we allow the submission of a program in which participants can build on top of our examples and packages, enabling the use of conditions and iterations in programming to develop their own advanced prompt engineering techniques, and potentially create new ones!
+The LLM4PCG Competition continues the challenging and exciting spirit of the first competition. In this edition, we not only challenge participants to come up with a prompt to construct stable Science Birds levels resembling uppercase English characters, but we also open up the possibility of incorporating more complex prompt engineering techniques. This time, we allow the submission of a program in which participants can build on top of our examples and packages, enabling the use of conditions and iterations in programming to develop their own advanced prompt engineering techniques, and potentially create new ones!
 
 We welcome participants of all levels, whether you only modify a prompt in a provided example or come up with a complex logic through prompt engineering. All programs will be inspected for qualification, subject to the competition rules, and used to generate levels for each target English uppercase character. The generated levels are then tested for stability using our Science Birds Evaluator and checked for similarity to respective target characters using an upgraded Vision Transformer (ViT) classifier. This edition also introduces a new metric--diversity, making it more challenging. Now, not only do the prompts and/or prompt engineering techniques developed by participants need to generate stable and similar levels, but they also need to generate diverse levels.
 
@@ -14,11 +14,8 @@ We hope that this edition will be more exciting and contribute to collective lea
 
 ## Submission deadline
 
-Midterm: 24 May 2024 (23:59 JST)
 
-Final: 26 July 2024 (23:59 JST)
 
-Midterm submission is optional, although we recommend it. Any team that submits during the mid-term submission will be notified of the preliminary results. However, all teams, whether they submit during the midterm or not, must submit during the final submission period. Only submissions during the final submission period will be considered for the final ranking.
 
 ## Contact
 
